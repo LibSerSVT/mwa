@@ -5,7 +5,7 @@ Micro Web Application
 <HEAD>
 <META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <META name="GENERATOR" content="IBM WebSphere Studio">
-<TITLE>Micro Benchmarks</TITLE>
+<TITLE>Micro Benchmarks - mod title</TITLE>
 </HEAD>
 <BODY>
 
